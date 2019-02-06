@@ -1,0 +1,2 @@
+# swift-traning
+うらない
