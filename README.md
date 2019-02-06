@@ -1,0 +1,2 @@
+# WG--document
+WGまとめ
