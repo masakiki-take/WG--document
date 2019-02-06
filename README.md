@@ -1,2 +1,2 @@
-# WG--document
+# WG-document
 WGまとめ
